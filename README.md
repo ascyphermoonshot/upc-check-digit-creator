@@ -1,4 +1,4 @@
 # upc-check-digit-creator
-when entering the first 11 digits of an UPC this will give the last
+upc_check_digit.py calculates the last digit of an UPC given the first 11 digits
 
-upcval checks whether a full UPC is valid or not
+upcval.py checks whether a full UPC is valid or not
